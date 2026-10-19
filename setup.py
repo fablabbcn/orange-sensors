@@ -57,7 +57,7 @@ setup(
     install_requires=[
         "flat_table >= 1.1.1",
         "numpy >= 1.26, < 3",
-        "pandas >= 2.2, < 4",
+        "pandas >= 2.2.2, < 4",
         "Orange3 >= 3.31.1",
         "PyQt5",
         "smartcitizen-connector == 1.5.9", #Smart Citizen connector should be fixed at a version
